@@ -7,4 +7,4 @@ Technology and design enthusiast, focused on front-end development. I enjoy turn
 
 ### Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincamussi&repo=kevincamussi.github.io&theme=codeSTACKr&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=kevincamussi&repo=kevincamussi.github.io&theme=codeSTACKr&show_icons=true)
