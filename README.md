@@ -14,3 +14,7 @@ Technology and design enthusiast, focused on front-end development. I enjoy turn
 ### Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincamussi&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
+
+### Contact
+
+[[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark">](https://www.linkedin.com/in/kevincamussi/)]
