@@ -7,4 +7,4 @@ Technology and design enthusiast, focused on front-end development. I enjoy turn
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincamussi&theme=codeSTACKr&repo=github-readme-stats)](https://github.com/kevincamussi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincamussi&repo=efood-readme-stats&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
