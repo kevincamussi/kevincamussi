@@ -2,7 +2,7 @@
 
 ###### About Kevin  
 Full Stack Developer passionate about technology, clean code, and intuitive user experiences.  
-I build complete applications using **Python (FastAPI)** for the backend and **React** for the frontend — always focused on performance, scalability, and user-centered design.  
+I build complete applications using **Python** for the backend and **React/ Next / Typescript** for the frontend — always focused on performance, scalability, and user-centered design.  
 
 ---
 
