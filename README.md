@@ -1,8 +1,11 @@
 ### Hi there 👋  
 
 ###### About Kevin  
-Full Stack Developer passionate about technology, clean code, and intuitive user experiences.  
-I build complete applications using **Python** for the backend and **React/ Next / Typescript** for the frontend — always focused on performance, scalability, and user-centered design.  
+Front-End Engineer & Co-Founder at Fyaora LABS, currently contributing to the Gler Platform, an innovative on-demand services ecosystem. I focus on building responsive and accessible user interfaces with Next.js, React, TypeScript, and Tailwind CSS.
+
+I have a degree in Systems Analysis and Development (Estácio) and completed the Front-End Engineering course at EBAC – British School of Creative Arts and Technology. My experience also includes backend tools like Python, FastAPI, MongoDB, and SQL, giving me a solid understanding of full-stack workflows.
+
+I’m passionate about clean code, design systems, and creating digital experiences that combine performance and usability. I value collaboration, learning, and building products that make a real impact.
 
 ---
 
@@ -13,14 +16,6 @@ I build complete applications using **Python** for the backend and **React/ Next
 ---
 
 ### 💻 Tech Stack  
-
-#### 🚀 Backend  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🎨 Frontend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,6 +30,14 @@ I build complete applications using **Python** for the backend and **React/ Next
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🚀 Backend  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
