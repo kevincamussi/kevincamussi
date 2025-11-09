@@ -1,11 +1,13 @@
 ### Hi there 👋  
 
 ###### About Kevin  
-Front-End Engineer & Co-Founder at Fyaora LABS, currently contributing to the Gler Platform, an innovative on-demand services ecosystem. I focus on building responsive and accessible user interfaces with Next.js, React, TypeScript, and Tailwind CSS.
+Front-End Engineer & Co-Founder at Fyaora LABS, currently contributing to the Gler Platform, an innovative on-demand services ecosystem.
+I focus on building responsive and accessible user interfaces with Next.js, React, TypeScript, and Tailwind CSS, collaborating closely with designers and backend developers to create seamless user experiences.
 
-I have a degree in Systems Analysis and Development (Estácio) and completed the Front-End Engineering course at EBAC – British School of Creative Arts and Technology. My experience also includes backend tools like Python, FastAPI, MongoDB, and SQL, giving me a solid understanding of full-stack workflows.
+I have a degree in Systems Analysis and Development (Estácio) and completed the Front-End Engineering course at EBAC – British School of Creative Arts and Technology.
+In addition to my front-end expertise, I also work with Python, FastAPI, NodeJs, MongoDB, and SQL, giving me a strong grasp of full-stack development and data-driven architectures.
 
-I’m passionate about clean code, design systems, and creating digital experiences that combine performance and usability. I value collaboration, learning, and building products that make a real impact.
+I’m passionate about clean code, design systems, and creating digital experiences that combine performance and usability. I value collaboration, learning, and building products that make a real impac
 
 ---
 
@@ -54,7 +56,7 @@ I’m passionate about clean code, design systems, and creating digital experien
 
 ### 🧠 Current Focus  
 
-- Building scalable applications with **FastAPI + React**  
+- Building scalable applications with **Next.js + Python**  
 - Learning **CI/CD** and container orchestration with **Docker**  
 - Improving database design with **MongoDB** and **MySQL**  
 - Studying **software architecture patterns** and **clean code** principles  
