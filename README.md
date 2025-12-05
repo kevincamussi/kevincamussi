@@ -1,13 +1,12 @@
 ### Hi there 👋  
 
 ###### About Kevin  
-Front-End Engineer & Co-Founder at Fyaora LABS, currently contributing to the Gler Platform, an innovative on-demand services ecosystem.
-I focus on building responsive and accessible user interfaces with Next.js, React, TypeScript, and Tailwind CSS, collaborating closely with designers and backend developers to create seamless user experiences.
+Front-End Engineer focused on building fast, accessible, and scalable interfaces using Next.js, React, TypeScript, and Tailwind CSS. Currently working on the Gler Platform at Fyaora LABS, creating intuitive digital experiences in a dynamic startup environment.
 
-I have a degree in Systems Analysis and Development (Estácio) and completed the Front-End Engineering course at EBAC – British School of Creative Arts and Technology.
-In addition to my front-end expertise, I also work with Python, FastAPI, NodeJs, MongoDB, and SQL, giving me a strong grasp of full-stack development and data-driven architectures.
+Driven by continuous learning, clean architecture, and UI that solves real problems. I enjoy working in collaborative teams where design and engineering come together to deliver high-impact products.
 
-I’m passionate about clean code, design systems, and creating digital experiences that combine performance and usability. I value collaboration, learning, and building products that make a real impac
+📍 Liverpool, UK
+📧 kevincamussi@gmail.com
 
 ---
 
