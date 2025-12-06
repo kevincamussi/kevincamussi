@@ -10,12 +10,6 @@ Driven by continuous learning, clean architecture, and UI that solves real probl
 
 ---
 
-### ⚙️ Details  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincamussi&theme=codeSTACKr&show_icons=true)
-
----
-
 ### 💻 Tech Stack  
 
 #### 🎨 Frontend  
