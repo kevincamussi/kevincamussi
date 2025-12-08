@@ -41,12 +41,6 @@ Driven by continuous learning, clean architecture, and UI that solves real probl
 
 ---
 
-### 📊 Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincamussi&size_weight=0.5&count_weight=0.5&theme=codeSTACKr)
-
----
-
 ### 🧠 Current Focus  
 
 - Building scalable applications with **Next.js + Python**  
